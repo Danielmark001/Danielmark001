@@ -1,3 +1,7 @@
+Hi there! I am Daniel! 👋
+
+I am currently a computer sciences freshman at Nanyang Technological Univeristy Singapore. 
+
 - 👋 Hi, I’m @Danielmark001
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
