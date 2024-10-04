@@ -1,4 +1,4 @@
-Hi there! I am Daniel! 👋
+<h3> Hi there! I am Daniel! 👋
 
 I am currently a computer sciences freshman at Nanyang Technological Univeristy Singapore. 
 
