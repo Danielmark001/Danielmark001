@@ -1,7 +1,7 @@
 <h3> Hi there! I am Daniel! 👋</h3>
 
 
-I am currently a computer sciences freshman at Nanyang Technological Univeristy Singapore. 😆
+I am currently a computer sciences freshman at Nanyang Technological University Singapore. 😆
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danielmark001)](https://git.io/streak-stats)
   
