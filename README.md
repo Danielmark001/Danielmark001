@@ -76,14 +76,12 @@
 
 </div>
 
+## 💻 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmark001&layout=compact&theme=radical" alt="Top Languages"/>
+
 ## 📈 GitHub Stats
 
 ![Danielmark001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielmark001\&show_icons=true\&theme=radical)
-
----
-
-Feel free to customize this further to highlight specific projects or experiences in Agentic AI and Agentic RAG!
-
 
 <!---
 Danielmark001/Danielmark001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
