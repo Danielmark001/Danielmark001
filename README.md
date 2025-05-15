@@ -1,10 +1,11 @@
 # 👋 Hi, I’m Daniel Mark
 
 * 😆 I am currently a computer sciences sophomore at **Nanyang Technological University** Singapore. 
-* 🧠 I'm deeply fascinated by **Agentic AI** and **Agentic RAG**, where autonomous AI agents not only retrieve and generate information but also make decisions and take actions without constant human oversight.
-* 🔍 My current focus is on building systems that leverage **Agentic RAG** to enhance the capabilities of large language models (LLMs), enabling them to handle complex tasks by orchestrating multiple AI agents effectively.
-* 🤝 I'm eager to collaborate on projects involving **Agentic AI**, especially those that push the boundaries of autonomous decision-making and multi-agent coordination.
+* 👀 I’m interested in **Machine Learning**, especially **LLMs (Large Language Models)** and **Computer Vision**. These fields are where magic meets science! ✨🤖
+* 🌱 I’m currently diving deep into **LLMs** and **Agentic RAG**, learning how to make machines see and learn intelligently. 📚🖼️💬
+* ✨ I’m looking to collaborate on **LLM-related projects**! If you’re building something cool in this space, let’s team up. 🚀
 * 📫 Feel free to reach out via **[danielmark0103@gmail.com](mailto:danielmark0103@gmail.com)**.
+* ⚡ Fun fact: I believe AI isn’t just about algorithms but also about how to make it more fun if you know what I mean 👀
 
 ---
 
