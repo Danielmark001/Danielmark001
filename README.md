@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Daniel Mark
 
 * 😆 I am currently a computer sciences sophomore at **Nanyang Technological University** Singapore. 
-* 👀 I’m interested in **Machine Learning**, especially **LLMs (Large Language Models)** and **Computer Vision**. These fields are where magic meets science! ✨🤖
+* 👀 I’m interested in **Machine Learning**, especially **LLMs (Large Language Models)** and **Computer Vision**. ✨🤖
 * 🌱 I’m currently diving deep into **LLMs** and **Agentic RAG**, learning how to make machines see and learn intelligently. 📚🖼️💬
 * ✨ I’m looking to collaborate on **LLM-related projects**! If you’re building something cool in this space, let’s team up. 🚀
 * 📫 Feel free to reach out via **[danielmark0103@gmail.com](mailto:danielmark0103@gmail.com)**.
