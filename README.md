@@ -5,7 +5,6 @@
 * 🌱 I’m currently diving deep into **LLMs** and **Agentic RAG**, learning how to make machines see and learn intelligently. 📚🖼️💬
 * ✨ I’m looking to collaborate on **LLM-related projects**! If you’re building something cool in this space, let’s team up. 🚀
 * 📫 Feel free to reach out via **[danielmark0103@gmail.com](mailto:danielmark0103@gmail.com)**.
-* ⚡ Fun fact: I believe AI isn’t just about algorithms but also about how to make it more fun if you know what I mean 👀
 
 ---
 
